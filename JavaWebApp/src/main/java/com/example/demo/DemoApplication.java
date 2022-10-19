@@ -12,6 +12,8 @@ public class DemoApplication {
 		String name = "abby";
 
 		system.out.println(name);
+
+		integer age = "100";
 	}
 
 }
